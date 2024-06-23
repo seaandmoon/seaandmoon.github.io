@@ -4,29 +4,29 @@
 
 let mainConfig = {
   vssueConfig: {
-    owner: "Yidadaa",
-    repo: "Yidadaa.github.io",
-    clientId: "2783a4b752f56c0ed912",
-    clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
+    owner: "seaandmoon",
+    repo: "seaandmoon.github.io",
+    clientId: "Ov23liHLJV5JtSUQX74N",
+    clientSecret: "754644a7ceb0a334320b516889e5f2d012a6c648"
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Yidadaa.github.io",
+    owner: "seaandmoon",
+    repo: "seaandmoon.github.io",
     pushBranch: "master",
-    email: "yidadaa@qq.com",
-    filterUsers: ["Yidadaa"],
+    email: "1056300162@qq.com",
+    filterUsers: ["seaandmoon"],
   },
 
-  title: "YiFei Zhang's Blog",
+  title: "Hai Zhang's Blog",
   description: "在这里了解我的一切，对编程的热爱永不停歇。",
-  customDomain: "blog.simplenaive.cn",
+  customDomain: "blog.sea.cn",
   base: "/",
   lang: "zh",
 
   slogan: {
-    main: "有逻辑的灵魂，",
-    sub: "造就有温度的编码。"
+    main: "形势，先于蛮力",
+    sub: "绝对不要坐等胜利的到来。"
   },
 
   themeConfig: {
@@ -37,7 +37,7 @@ let mainConfig = {
       },
       {
         name: "Github",
-        link: "https://github.com/Yidadaa"
+        link: "https://github.com/seaandmoon"
       },
       {
         name: "Resume",
@@ -70,7 +70,7 @@ let mainConfig = {
     extraFooters: [
       {
         title: "ABOUT",
-        text: "@ 蜀 ICP 备 19000509 号 - 1",
+        text: "@ y ICP 备 xxxxx 号 - x",
         link: "https://beian.miit.gov.cn/"
       }
     ],
